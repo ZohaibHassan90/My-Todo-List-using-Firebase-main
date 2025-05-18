@@ -1,0 +1,6 @@
+version: "3"
+services:
+  web:
+    image: zohaibhassan90/todo-react-app
+    ports:
+      - "8080:80"
